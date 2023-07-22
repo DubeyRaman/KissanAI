@@ -1,0 +1,89 @@
+District: Belgaum
+Crop: Rice
+Year: 2021
+Area: 500 hectares
+Production: 1,000 metric tonnes
+Rainfall: 800 mm
+Temperature: 25 degrees Celsius
+
+District: Mysore
+Crop: Sugarcane
+Year: 2022
+Area: 1,000 hectares
+Production: 50,000 metric tonnes
+Rainfall: 1,200 mm
+Temperature: 30 degrees Celsius
+
+District: Tumkur
+Crop: Maize
+Year: 2023
+Area: 800 hectares
+Production: 2,400 metric tonnes
+Rainfall: 900 mm
+Temperature: 28 degrees Celsius
+
+District: Dharwad
+Crop: Cotton
+Year: 2021
+Area: 1,200 hectares
+Production: 1,800 metric tonnes
+Rainfall: 700 mm
+Temperature: 26 degrees Celsius
+
+District: Hassan
+Crop: Coffee
+Year: 2022
+Area: 600 hectares
+Production: 1,200 metric tonnes
+Rainfall: 1,000 mm
+Temperature: 22 degrees Celsius
+
+
+
+
+
+
+
+
+District: Bagalkot
+Crop: Groundnut
+Year: 2023
+Area: 1,500 hectares
+Production: 2,000 metric tonnes
+Rainfall: 600 mm
+Temperature: 28 degrees Celsius
+
+District: Shimoga
+Crop: Areca nut
+Year: 2022
+Area: 900 hectares
+Production: 1,800 metric tonnes
+Rainfall: 1,100 mm
+Temperature: 24 degrees Celsius
+
+District: Gulbarga
+Crop: Red gram (Tur dal)
+Year: 2021
+Area: 1,000 hectares
+Production: 1,500 metric tonnes
+Rainfall: 550 mm
+Temperature: 30 degrees Celsius
+
+District: Chitradurga
+Crop: Ragi (Finger millet)
+Year: 2023
+Area: 700 hectares
+Production: 1,400 metric tonnes
+Rainfall: 800 mm
+Temperature: 26 degrees Celsius
+
+District: Udupi
+Crop: Coconut
+Year: 2022
+Area: 1,200 hectares
+Production: 6,000 metric tonnes
+Rainfall: 2,000 mm
+Temperature: 28 degrees Celsius
+
+
+<<BLOCK>>
